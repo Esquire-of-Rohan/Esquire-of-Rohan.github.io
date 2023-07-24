@@ -32,7 +32,7 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 
 
----
+
 title: About me
 layout: About me
 ---
