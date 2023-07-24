@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: My portfolio
+description: Hello there! Welcome to my porfolio. Yeah, very unexpected as if the name doesn't already imply that :). But still, here you will find all that is worth knowing about me before offering a job. And a little more, probably
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://esquire-of-rohan.github.io/YOUR-SITE-NAME
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: https://github.com/esquire-of-rohan/portfolio
